@@ -1,0 +1,45 @@
+@font-face {
+    font-family: myfont;
+    src: url(./Joger.ttf);
+
+}
+*{
+font-family: myfont ;
+
+}
+
+body{
+background-color:#00988d;
+text-align: center;
+margin-top: 100px;
+
+}
+
+#fundo{
+background-color: #a6f6af;
+display: inline-block;
+border: 5px solid black;
+padding: 13px;
+
+
+}
+input{
+    display: flex;
+    padding: 6px;
+    margin: 9px;
+
+
+
+}
+
+#calculando{
+ padding: 7px;
+ margin: 25px;
+
+
+
+
+
+}
+
+
