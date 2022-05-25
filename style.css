@@ -1,0 +1,52 @@
+
+*{
+font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+body{
+background-color:#00988d;
+text-align: center;
+margin-top: 100px;
+
+}
+
+#bonus{
+font-size: 2rem;
+
+
+
+}
+#bonus1{
+    font-size: 2rem;
+    
+    
+    
+    }
+
+#fundo{
+background-color: #a6f6af;
+display: inline-block;
+border: 5px solid black;
+padding: 20px;
+
+}
+input{
+    display: flex;
+    padding: 6px;
+    margin: 22px;
+
+
+
+}
+
+#calculando{
+ padding: 7px;
+ margin: 25px;
+
+
+
+
+
+}
+
+
